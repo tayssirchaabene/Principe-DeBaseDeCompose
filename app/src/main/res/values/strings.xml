@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuadrontCompose</string>
+    <string name="first_">first_title\n</string>
+    <string name="first_title">first_title</string>
+    <string name="first_description">first_description</string>
+    <string name="secand_title">secand_title</string>
+    <string name="secand_description">second_description</string>
+    <string name="third_title">third_title</string>
+    <string name="third_description">third_description</string>
+    <string name="fourth_title">fourth_title\n</string>
+    <string name="fourth_description">fourth_description</string>
+</resources>
