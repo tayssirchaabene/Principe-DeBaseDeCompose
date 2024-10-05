@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.gestionnairedetache"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.gestionnairedetache"
+=======
+    namespace = "com.example.jetpackcomposetutorial"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.jetpackcomposetutorial"
+>>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
         minSdk = 24
         targetSdk = 34
         versionCode = 1

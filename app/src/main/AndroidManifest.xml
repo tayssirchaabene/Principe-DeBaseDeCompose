@@ -10,13 +10,21 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Gestionnairedetache"
+=======
+        android:theme="@style/Theme.JetpackComposeTutorial"
+>>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.Gestionnairedetache">
+=======
+            android:theme="@style/Theme.JetpackComposeTutorial">
+>>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

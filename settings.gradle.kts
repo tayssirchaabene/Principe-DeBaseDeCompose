@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Gestionnairedetache"
+=======
+rootProject.name = "JetpackComposeTutorial"
+>>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
 include(":app")
  
