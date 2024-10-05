@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.gestionnairedetache"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.gestionnairedetache"
+=======
+    namespace = "com.example.quadrontcompose"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.quadrontcompose"
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -50,6 +58,10 @@ android {
 }
 
 dependencies {
+<<<<<<< HEAD
+=======
+
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -65,4 +77,8 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32

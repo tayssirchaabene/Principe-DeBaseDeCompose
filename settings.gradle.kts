@@ -19,7 +19,12 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Gestionnairedetache"
 include(":app")
 
+=======
+rootProject.name = "QuadrontCompose"
+include(":app")
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
  

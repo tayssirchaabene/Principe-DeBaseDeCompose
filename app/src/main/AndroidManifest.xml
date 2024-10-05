@@ -11,20 +11,28 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:theme="@style/Theme.Gestionnairedetache"
 =======
         android:theme="@style/Theme.JetpackComposeTutorial"
 >>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
+=======
+        android:theme="@style/Theme.QuadrontCompose"
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:theme="@style/Theme.Gestionnairedetache">
 =======
             android:theme="@style/Theme.JetpackComposeTutorial">
 >>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
+=======
+            android:theme="@style/Theme.QuadrontCompose">
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

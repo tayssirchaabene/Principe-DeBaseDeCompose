@@ -2,8 +2,12 @@
 <resources>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     <style name="Theme.Gestionnairedetache" parent="android:Theme.Material.Light.NoActionBar" />
 =======
     <style name="Theme.JetpackComposeTutorial" parent="android:Theme.Material.Light.NoActionBar" />
 >>>>>>> 7e55212a42e48e3fcbb9f83a8a968d799592265e
+=======
+    <style name="Theme.QuadrontCompose" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> f6a835b9d6ce207063d70c57a2c5f59545f5be32
 </resources>
